@@ -1,2 +1,9 @@
 # Bus_Ticket_Booking_System
-A C++ program that simulates a bus ticket booking system with two user modes: User and Guest. Features include ID verification, ticket prices, error handling, and a 3-attempt limit for incorrect inputs in User login.
+
+Key Features:
+- The system offers two modes: User and Guest.
+- User Mode allows users to log in with stored IDs.
+- Guest Mode provides ticket prices.
+- Users can enter "0" at any time to return to the main menu.
+- Implemented a retry mechanism in User Mode, limiting incorrect ID attempts to 3 before terminating the program.
+- Added error handling to manage invalid inputs and ensure a smooth user experience.
