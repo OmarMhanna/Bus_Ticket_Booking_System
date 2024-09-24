@@ -1,4 +1,4 @@
-# Bus_Ticket_Booking_System
+# Bus Ticket Booking System
 
 Key Features:
 - The system offers two modes: User and Guest.
